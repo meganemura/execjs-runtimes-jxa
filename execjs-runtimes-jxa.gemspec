@@ -5,7 +5,7 @@ require 'execjs/runtimes/jxa/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "execjs-runtimes-jxa"
-  spec.version       = Execjs::Runtimes::JXA::VERSION
+  spec.version       = ExecJS::Runtimes::JXA::VERSION
   spec.authors       = ["meganemura"]
   spec.email         = ["meganemura@users.noreply.github.com"]
 

@@ -1,6 +1,6 @@
 require "execjs/runtimes/jxa/version"
 
-module Execjs
+module ExecJS
   module Runtimes
     module JXA
       # Your code goes here...

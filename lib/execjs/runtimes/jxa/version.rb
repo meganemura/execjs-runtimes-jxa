@@ -1,4 +1,4 @@
-module Execjs
+module ExecJS
   module Runtimes
     module JXA
       VERSION = "0.1.0"
