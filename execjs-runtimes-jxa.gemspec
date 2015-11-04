@@ -1,11 +1,11 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'execjs/runtimes/jxa/version'
+require 'execjs/runtimes_jxa_version'
 
 Gem::Specification.new do |spec|
   spec.name          = "execjs-runtimes-jxa"
-  spec.version       = ExecJS::Runtimes::JXA::VERSION
+  spec.version       = ExecJS::RUNTIMES_JXA_VERSION
   spec.authors       = ["meganemura"]
   spec.email         = ["meganemura@users.noreply.github.com"]
 

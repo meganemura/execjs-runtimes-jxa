@@ -1,5 +1,5 @@
 require "execjs/runtimes"
-require "execjs/runtimes/jxa/version"
+require "execjs/runtimes_jxa_version"
 
 module ExecJS
   module Runtimes
