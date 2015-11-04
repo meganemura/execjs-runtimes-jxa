@@ -9,7 +9,9 @@ module ExecJS
       runner_path: File.expand_path("../..", __FILE__) + "/support/jxa_runner.js"
     )
 
+    # Call self.runtimes once to set built-in runtimes into @runtimes
     self.runtimes
+
     @runtimes << JXA
   end
 end
