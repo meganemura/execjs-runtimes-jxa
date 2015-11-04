@@ -8,5 +8,8 @@ module ExecJS
       command:     "/usr/bin/osascript -l JavaScript",
       runner_path: File.expand_path("../..", __FILE__) + "/support/jxa_runner.js"
     )
+
+    self.runtimes
+    @runtimes << JXA
   end
 end
