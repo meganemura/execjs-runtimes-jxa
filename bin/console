@@ -3,5 +3,7 @@
 require "bundler/setup"
 require "execjs/runtimes/jxa"
 
+ExecJS.runtime = ExecJS::Runtimes::JXA
+
 require "pry"
 Pry.start
