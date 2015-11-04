@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["meganemura"]
   spec.email         = ["meganemura@users.noreply.github.com"]
 
-  spec.summary       = "ExecJS Runtime for JXA (JavaScript for Automation)"
+  spec.summary       = "ExecJS Runtime for JXA (Apple's JavaScript for Automation)"
   spec.homepage      = "https://github.com/meganemura/execjs-runtimes-jxa"
   spec.license       = "MIT"
 

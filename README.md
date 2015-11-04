@@ -1,6 +1,6 @@
 # ExecJS::Runtimes::JXA
 
-[ExecJS](https://github.com/rails/execjs) Runtime for JXA (JavaScript for Automation) using `osascript -l JavaScript`.
+[ExecJS](https://github.com/rails/execjs) Runtime for JXA (Apple's JavaScript for Automation) using `osascript -l JavaScript`.
 
 ```ruby
 gem 'execjs-runtimes-jxa'
